@@ -1,4 +1,4 @@
-# MSBA-Projects
+# Big Data Analytics on Airline on-time Performance Data
 
 Researched to find major factors that cause a flight to be late. Implemented Supervised Machine Learning – Logistic Regression using Mahout to predict delayed flights.
 
